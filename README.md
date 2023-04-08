@@ -1,6 +1,6 @@
 ## Hi there 👋, i am Habibullah Raju
-#### Web Developer
-![Web Developer](https://scontent.fdac2-2.fna.fbcdn.net/v/t39.30808-6/337825415_225130823510319_3823450659842504266_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeG6YVGO6QCXDhUY2EGbFVUPrVp-fmV2iA-tWn5-ZXaID_OSiZK2sQ8u6ldlx3YSsub_H9AS3hOTLfZlWeEhSf-K&_nc_ohc=NXaAKIqKctIAX-PfMop&_nc_zt=23&_nc_ht=scontent.fdac2-2.fna&oh=00_AfC1nifmbdDQ4m-LEdiFygAFwkNusE1BFffugw3p_3t-PA&oe=6424CE84)
+#### Learner
+![Web Developer]([https://scontent.fdac2-2.fna.fbcdn.net/v/t39.30808-6/337825415_225130823510319_3823450659842504266_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeG6YVGO6QCXDhUY2EGbFVUPrVp-fmV2iA-tWn5-ZXaID_OSiZK2sQ8u6ldlx3YSsub_H9AS3hOTLfZlWeEhSf-K&_nc_ohc=NXaAKIqKctIAX-PfMop&_nc_zt=23&_nc_ht=scontent.fdac2-2.fna&oh=00_AfC1nifmbdDQ4m-LEdiFygAFwkNusE1BFffugw3p_3t-PA&oe=6424CE84](https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/best-desktop-computer-for-programming-and-coding1619724622982369.jpg))
 
 I love to write code and i love to learn new things always.
 

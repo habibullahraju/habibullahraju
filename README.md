@@ -4,7 +4,7 @@
 
 I love to write code and i love to learn new things always.
 
-Skills:  REACT / JS / HTML / CSS / BOOTSTRAP / TAILWINDCSS / Firebase
+Skills:  REACT / JS / HTML / CSS / BOOTSTRAP / TAILWINDCSS / FIREBASE / REACT-BOOTSTRAP 
 
 - 🌱 I’m currently learning Express.js 
 - 📫 How to reach me: raju.ra423@gmail.com 

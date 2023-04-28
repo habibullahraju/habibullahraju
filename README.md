@@ -4,9 +4,9 @@
 
 I love to write code and i love to learn new things always.
 
-Skills:  REACT / JS / HTML / CSS / BOOTSTRAP / TAILWINDCSS / 
+Skills:  REACT / JS / HTML / CSS / BOOTSTRAP / TAILWINDCSS / Firebase
 
-- 🌱 I’m currently learning React.js 
+- 🌱 I’m currently learning Express.js 
 - 📫 How to reach me: raju.ra423@gmail.com 
 - ⚡ Fun fact: “Common sense is like deodorant. The people who need it most never use it.” 
 
